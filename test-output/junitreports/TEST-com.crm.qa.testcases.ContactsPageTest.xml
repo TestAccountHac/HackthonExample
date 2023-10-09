@@ -40,7 +40,7 @@ Session ID: d7acb5096692381e39ea68256520fd84
 	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:105)
 	at com.sun.proxy.$Proxy8.executeScript(Unknown Source)
 	at org.openqa.selenium.support.events.EventFiringWebDriver.executeScript(EventFiringWebDriver.java:218)
-	at com.crm.qa.util.TestUtil.runTimeInfo(TestUtil.java:79)
+	at com.test.qa.util.TestUtil.runTimeInfo(TestUtil.java:79)
 	at com.crm.qa.testcases.ContactsPageTest.setUp(ContactsPageTest.java:52)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)

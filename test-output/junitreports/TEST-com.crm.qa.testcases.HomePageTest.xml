@@ -6,7 +6,7 @@
       <![CDATA[java.lang.NullPointerException
 	at org.openqa.selenium.support.events.EventFiringWebDriver.extractInterfaces(EventFiringWebDriver.java:121)
 	at org.openqa.selenium.support.events.EventFiringWebDriver.<init>(EventFiringWebDriver.java:93)
-	at com.crm.qa.base.TestBase.initialization(TestBase.java:53)
+	at com.test.qa.base.TestBase.initialization(TestBase.java:53)
 	at com.crm.qa.testcases.HomePageTest.setUp(HomePageTest.java:31)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
